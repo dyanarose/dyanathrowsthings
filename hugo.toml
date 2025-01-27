@@ -1,0 +1,4 @@
+baseURL = 'https://dyanathrowsthings.com/'
+languageCode = 'en-gb'
+title = 'Dyana Throws Things'
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke/v2"]
