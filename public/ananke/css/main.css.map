@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/workspaces/dyanathrowsthings",
+	"sourceRoot": "C:/Users/dyana/go/src/github.com/dyanarose/dyanathrowsthings",
 	"sources": [
 		"ananke/css/main.css"
 	],
